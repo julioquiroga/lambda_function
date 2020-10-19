@@ -1,2 +1,2 @@
-# -lambda_function
+# lambda_function
 zx-ventures
